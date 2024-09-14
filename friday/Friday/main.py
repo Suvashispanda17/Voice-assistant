@@ -64,7 +64,7 @@ en = px.init()
 
 
 
-newsapi = "28c34d4659364725bca57f5c04dd5f5e"
+newsapi = "API_KEY" #generate your own api key from  new-API
 
 
 # def speak(text):
