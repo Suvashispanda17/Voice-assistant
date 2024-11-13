@@ -38,5 +38,25 @@ music = {
     "love_me_like_you_do": "https://www.youtube.com/watch?v=AJtDXIazrMo",
     "hello": "https://www.youtube.com/watch?v=YQHsXMglC9A",
     "memories": "https://www.youtube.com/watch?v=SlPhMPnQ58k",
-    "savage_love": "https://www.youtube.com/watch?v=I5Khx1RA0BA"
+    "savage_love": "https://www.youtube.com/watch?v=I5Khx1RA0BA",
+    "bohemian_rhapsody": "https://www.youtube.com/watch?v=fJ9rCQDCaeM",
+  "imagine": "https://www.youtube.com/watch?v=YOW1S86h78Q",
+  "backstreet_boys_i_want_it_that_way": "https://www.youtube.com/watch?v=uR47oNMHpbU",
+  "hallelujah": "https://www.youtube.com/watch?v=YHhlpLkOZKQ",
+  "what_a_wonderful_world": "https://www.youtube.com/watch?v=1CPzF2tEmKE",
+  "a_day_in_the_life": "https://www.youtube.com/watch?v=34F5aoLLqs0",
+  "respect": "https://www.youtube.com/watch?v=I_izvONjtQU",
+  "dancing_queen": "https://www.youtube.com/watch?v=-aMcHZh0q9Q",
+  "purple_rain": "https://www.youtube.com/watch?v=_1OC9JXQ0A0",
+  "like_a_prayer": "https://www.youtube.com/watch?v=-JtT-7aIons",
+  "stairway_to_heaven": "https://www.youtube.com/watch?v бух6t9mIU",  # Led Zeppelin - Stairway to Heaven (careful, some characters might not display properly)
+  "what_a_feeling": "https://www.youtube.com/watch?v=8RXWREj-zqQ",
+  "singin_in_the_rain": "https://www.youtube.com/watch?v=N5lCvWNXK_Y",
+  "cant_buy_me_love": "https://www.youtube.com/watch?v=Qt_GtM1eYZU",
+  "yesterday": "https://www.youtube.com/watch?v=9tXgJwhLJHI",
+  "hey_jude": "https://www.youtube.com/watch?v=A_MjCaaHJ_k",
+  "africa": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",  # Rick Astley - Never Gonna Give You Up (fun song, but a rickroll!)
+  "fix_you": "https://www.youtube.com/watch?v=_8-TvuGNLA0",
+  "somebody_that_i_used_to_know": "https://www.youtube.com/watch?v=DLzxrzFCyOs",
+  "rolling_in_the_deep": "https://www.youtube.com/watch?v=rYEDA3JcQqw"
 }
