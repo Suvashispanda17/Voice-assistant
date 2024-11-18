@@ -12,18 +12,18 @@ import google.generativeai as ai
 import getpass 
 from datetime import datetime
 import wikipedia
-# import streamlit as st
+
 
 #################################
 en = px.init()
 #################################
-newsapi = "28c34d4659364725bca57f5c04dd5f5e"
+newsapi = "<read line 26 >"
 ################################
 
 
 ##########################################################
 # using google api for commands for backend
-API_KEY='AIzaSyAk_TxZRPcsCoAGfrx2G_GYCqejSoUhHrY'
+API_KEY='<generate your own api key idiottt!!>'
 
 ai.configure(api_key=API_KEY)
 model=ai.GenerativeModel("gemini-pro")
